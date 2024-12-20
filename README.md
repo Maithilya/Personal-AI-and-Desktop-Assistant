@@ -20,6 +20,12 @@ here
  2: an assistant with a personality with the help of google gemini incase u want to build a iot based assistant just like google home or alexa
  both codes are in this repository
  remember part1(with UI) is for Vs code as it contains html and css files
-          part2(with personality) is completly in python so u can use any python compiler (suggest: Pycharm)
+          part2(with personality) is completly in python so u can use any python compiler (suggest: Pycharm){all files haveing 2 in suffix are part 2 files}
+
+
+ Don't forgot to install all the required libraries and pls genrate your own genai apikey for your project 
+
+ Happy coding!
+          
 
   
